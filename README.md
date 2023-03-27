@@ -92,10 +92,10 @@ Output:
 ## File Description
 * [_printf.c](./_printf.c): contains the  function ```_printf```, which uses the prototype ```int _printf(const char *format, ...);```
 * [get_flags.c](./get_flags.c): checks,confirms and returns active flags.
-* [print_functions.c](./get_functions.c): contains functions to print `int`,`char`,`string`,`percent sign = %` and `unsigned number in binary` to stdout.
-* [print_functions1.c](./get_functions1.c): contains functions to print unsigned number in `octal`, `hexadecimal`, `upper hexadecimal` and to print hexadecimal number in `upper` and `lower` to stdout.
-* [print_functions2.c](./get_functions2.c): contains functions to print a string in `ROT13(conversion specier R)`, print a string in reverse, print ascii codes in hexa of non printable chars, and Print the value of a pointer variable to stdout.
-* [get_precisions.c](./get_precisions.c): function to handle precision.
+* [print_functions.c](./print_functions.c): contains functions to print `int`,`char`,`string`,`percent sign = %` and `unsigned number in binary` to stdout.
+* [print_functions1.c](./print_functions1.c): contains functions to print unsigned number in `octal`, `hexadecimal`, `upper hexadecimal` and to print hexadecimal number in `upper` and `lower` to stdout.
+* [print_functions2.c](./print_functions2.c): contains functions to print a string in `ROT13(conversion specier R)`, print a string in reverse, print ascii codes in hexa of non printable chars, and Print the value of a pointer variable to stdout.
+* [get_precisions.c](./precisions.c): function to handle precision.
 * [get_size.c](./get_size.c): function to handle size.
 * [get_width.c](./get_width.c): function to handle width.
 * [main.h](./main.h): ontains all function prototypes used for ```_printf```.
