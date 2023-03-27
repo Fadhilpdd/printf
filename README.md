@@ -1,7 +1,7 @@
 # _printf
 ## Project
 ## About:
-- This is a recreation of the C standard library function \\ printf.
+- This is a recreation of the C standard library function ```printf```.
 - The function writes output to standard output.
 - The project involves most of the major concepts of C programming language.
 - The project calls in various variadic functions.
